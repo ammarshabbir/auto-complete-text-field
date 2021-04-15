@@ -1,0 +1,388 @@
+{
+	"cities": [{
+		"keyword": "Muzaffarabad",
+		"autocompleteTerm": "Muzaffarabad",
+		"province": "Azad Kashmir"
+	}, {
+		"keyword": "Mirpur",
+		"autocompleteTerm": "Mirpur",
+		"province": "Azad Kashmir"
+	}, {
+		"keyword": "Quetta",
+		"autocompleteTerm": "Quetta",
+		"province": "Balochistan"
+	}, {
+		"keyword": "Turbat",
+		"autocompleteTerm": "Turbat",
+		"province": "Balochistan"
+	}, {
+		"keyword": "Khuzdar",
+		"autocompleteTerm": "Khuzdar",
+		"province": "Balochistan"
+	}, {
+		"keyword": "Hub",
+		"autocompleteTerm": "Hub",
+		"province": "Balochistan"
+	}, {
+		"keyword": "Chaman",
+		"autocompleteTerm": "Chaman",
+		"province": "Balochistan"
+	}, {
+		"keyword": "Islamabad",
+		"autocompleteTerm": "Islamabad",
+		"province": "Islamabad"
+	}, {
+		"keyword": "Peshawar",
+		"autocompleteTerm": "Peshawar",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Mardan",
+		"autocompleteTerm": "Mardan",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Mingora",
+		"autocompleteTerm": "Mingora",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Kohat",
+		"autocompleteTerm": "Kohat",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Dera Ismail Khan",
+		"autocompleteTerm": "Dera Ismail Khan",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Abbotabad",
+		"autocompleteTerm": "Abbotabad",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Swabi",
+		"autocompleteTerm": "Swabi",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Nowshera",
+		"autocompleteTerm": "Nowshera",
+		"province": "Khyber Pakhtunkhwa"
+	}, {
+		"keyword": "Kabal",
+		"autocompleteTerm": "Kabal",
+		"province": "Khyber Pakhtunkhwa"
+	},{
+		"keyword": "Charsadda",
+		"autocompleteTerm": "Charsadda",
+		"province": "Khyber Pakhtunkhwa"
+	},{
+		"keyword": "Karachi",
+		"autocompleteTerm": "Karachi",
+		"province": "Sindh"
+	},{
+		"keyword": "Hyderabad",
+		"autocompleteTerm": "Hyderabad",
+		"province": "Sindh"
+	},{
+		"keyword": "Sukkur",
+		"autocompleteTerm": "Sukkur",
+		"province": "Sindh"
+	},{
+		"keyword": "Larkana",
+		"autocompleteTerm": "Larkana",
+		"province": "Sindh"
+	},{
+		"keyword": "Nawabshah",
+		"autocompleteTerm": "Nawabshah",
+		"province": "Sindh"
+	},{
+		"keyword": "Kotri",
+		"autocompleteTerm": "Kotri",
+		"province": "Sindh"
+	},{
+		"keyword": "Mirpur Khas",
+		"autocompleteTerm": "Mirpur Khas",
+		"province": "Sindh"
+	},{
+		"keyword": "Shikarpur",
+		"autocompleteTerm": "Shikarpur",
+		"province": "Sindh"
+	},{
+		"keyword": "Jacobabad",
+		"autocompleteTerm": "Jacobabad",
+		"province": "Sindh"
+	},{
+		"keyword": "Khairpur",
+		"autocompleteTerm": "Khairpur",
+		"province": "Sindh"
+	},{
+		"keyword": "Dadu",
+		"autocompleteTerm": "Dadu",
+		"province": "Sindh"
+	},{
+		"keyword": "Tando Allahyar",
+		"autocompleteTerm": "Tando Allahyar",
+		"province": "Sindh"
+	},{
+		"keyword": "Tando Adam",
+		"autocompleteTerm": "Tando Adam",
+		"province": "Sindh"
+	},{
+		"keyword": "Umerkot",
+		"autocompleteTerm": "Umerkot",
+		"province": "Sindh"
+	},{
+		"keyword": "Shahdadkot",
+		"autocompleteTerm": "Shahdadkot",
+		"province": "Sindh"
+	},{
+		"keyword": "Badin",
+		"autocompleteTerm": "Badin",
+		"province": "Sindh"
+	},{
+		"keyword": "Ghotki",
+		"autocompleteTerm": "Ghotki",
+		"province": "Sindh"
+	},{
+		"keyword": "Daharki",
+		"autocompleteTerm": "Daharki",
+		"province": "Sindh"
+	},{
+		"keyword": "Tando Muhammad Khan",
+		"autocompleteTerm": "Tando Muhammad Khan",
+		"province": "Sindh"
+	},{
+		"keyword": "Kamber Ali Khan",
+		"autocompleteTerm": "Kamber Ali Khan",
+		"province": "Sindh"
+	},{
+		"keyword": "Mirpur Mathelo",
+		"autocompleteTerm": "Mirpur Mathelo",
+		"province": "Sindh"
+	},{
+		"keyword": "Kandhkot",
+		"autocompleteTerm": "Kandhkot",
+		"province": "Sindh"
+	},{
+		"keyword": "Lahore",
+		"autocompleteTerm": "Lahore",
+		"province": "Punjab"
+	},{
+		"keyword": "Faisalabad",
+		"autocompleteTerm": "Faisalabad",
+		"province": "Punjab"
+	},{
+		"keyword": "Rawalpindi",
+		"autocompleteTerm": "Rawalpindi",
+		"province": "Punjab"
+	},{
+		"keyword": "Gujranwala",
+		"autocompleteTerm": "Gujranwala",
+		"province": "Punjab"
+	},{
+		"keyword": "Multan",
+		"autocompleteTerm": "Multan",
+		"province": "Punjab"
+	},{
+		"keyword": "Bahawalpur",
+		"autocompleteTerm": "Bahawalpur",
+		"province": "Punjab"
+	},{
+		"keyword": "Sargodha",
+		"autocompleteTerm": "Sargodha",
+		"province": "Punjab"
+	},{
+		"keyword": "Sialkot",
+		"autocompleteTerm": "Sialkot",
+		"province": "Punjab"
+	},{
+		"keyword": "Rahim Yar Khan",
+		"autocompleteTerm": "Rahim Yar Khan",
+		"province": "Punjab"
+	},{
+		"keyword": "Jhang",
+		"autocompleteTerm": "Jhang",
+		"province": "Punjab"
+	},{
+		"keyword": "Dera Ghazi Khan",
+		"autocompleteTerm": "Dera Ghazi Khan",
+		"province": "Punjab"
+	},{
+		"keyword": "Gujrat",
+		"autocompleteTerm": "Gujrat",
+		"province": "Punjab"
+	},{
+		"keyword": "Sahiwal",
+		"autocompleteTerm": "Sahiwal",
+		"province": "Punjab"
+	},{
+		"keyword": "Wah Cantonment",
+		"autocompleteTerm": "Wah Cantonment",
+		"province": "Punjab"
+	},{
+		"keyword": "Kasur",
+		"autocompleteTerm": "Kasur",
+		"province": "Punjab"
+	},{
+		"keyword": "Okara",
+		"autocompleteTerm": "Okara",
+		"province": "Punjab"
+	},{
+		"keyword": "Chiniot",
+		"autocompleteTerm": "Chiniot",
+		"province": "Punjab"
+	},{
+		"keyword": "Kāmoke",
+		"autocompleteTerm": "Kāmoke",
+		"province": "Punjab"
+	},{
+		"keyword": "Hafizabad",
+		"autocompleteTerm": "Hafizabad",
+		"province": "Punjab"
+	},{
+		"keyword": "Sadiqabad",
+		"autocompleteTerm": "Sadiqabad",
+		"province": "Punjab"
+	},{
+		"keyword": "Burewala",
+		"autocompleteTerm": "Burewala",
+		"province": "Punjab"
+	},{
+		"keyword": "Khanewal",
+		"autocompleteTerm": "Khanewal",
+		"province": "Punjab"
+	},{
+		"keyword": "Muzaffargarh",
+		"autocompleteTerm": "Muzaffargarh",
+		"province": "Punjab"
+	},{
+		"keyword": "Mandi Bahauddin",
+		"autocompleteTerm": "Mandi Bahauddin",
+		"province": "Punjab"
+	},{
+		"keyword": "Jhelum",
+		"autocompleteTerm": "Jhelum",
+		"province": "Punjab"
+	},{
+		"keyword": "Khanpur",
+		"autocompleteTerm": "Khanpur",
+		"province": "Punjab"
+	},{
+		"keyword": "Pakpattan",
+		"autocompleteTerm": "Pakpattan",
+		"province": "Punjab"
+	},{
+		"keyword": "Daska",
+		"autocompleteTerm": "Daska",
+		"province": "Punjab"
+	},{
+		"keyword": "Gojra",
+		"autocompleteTerm": "Gojra",
+		"province": "Punjab"
+	},{
+		"keyword": "Muridke",
+		"autocompleteTerm": "Muridke",
+		"province": "Punjab"
+	},{
+		"keyword": "Bahawalnagar",
+		"autocompleteTerm": "Bahawalnagar",
+		"province": "Punjab"
+	},{
+		"keyword": "Samundri",
+		"autocompleteTerm": "Samundri",
+		"province": "Punjab"
+	},{
+		"keyword": "Jaranwala",
+		"autocompleteTerm": "Jaranwala",
+		"province": "Punjab"
+	},{
+		"keyword": "Chishtian",
+		"autocompleteTerm": "Chishtian",
+		"province": "Punjab"
+	},{
+		"keyword": "Attock",
+		"autocompleteTerm": "Attock",
+		"province": "Punjab"
+	},{
+		"keyword": "Vehari",
+		"autocompleteTerm": "Vehari",
+		"province": "Punjab"
+	},{
+		"keyword": "Kot Abdul Malik",
+		"autocompleteTerm": "Kot Abdul Malik",
+		"province": "Punjab"
+	},{
+		"keyword": "Chakwal",
+		"autocompleteTerm": "Chakwal",
+		"province": "Punjab"
+	},{
+		"keyword": "Gujranwala Cantonment",
+		"autocompleteTerm": "Gujranwala Cantonment",
+		"province": "Punjab"
+	},{
+		"keyword": "Kamalia",
+		"autocompleteTerm": "Kamalia",
+		"province": "Punjab"
+	},{
+		"keyword": "Ahmedpur East",
+		"autocompleteTerm": "Ahmedpur East",
+		"province": "Punjab"
+	},{
+		"keyword": "Kot Addu",
+		"autocompleteTerm": "Kot Addu",
+		"province": "Punjab"
+	},{
+		"keyword": "Wazirabad",
+		"autocompleteTerm": "Wazirabad",
+		"province": "Punjab"
+	},{
+		"keyword": "Layyah",
+		"autocompleteTerm": "Layyah",
+		"province": "Punjab"
+	},{
+		"keyword": "Taxila",
+		"autocompleteTerm": "Taxila",
+		"province": "Punjab"
+	},{
+		"keyword": "Khushab",
+		"autocompleteTerm": "Khushab",
+		"province": "Punjab"
+	},{
+		"keyword": "Mianwali",
+		"autocompleteTerm": "Mianwali",
+		"province": "Punjab"
+	},{
+		"keyword": "Lodhran",
+		"autocompleteTerm": "Lodhran",
+		"province": "Punjab"
+	},{
+		"keyword": "Hasilpur",
+		"autocompleteTerm": "Hasilpur",
+		"province": "Punjab"
+	},{
+		"keyword": "Bhakkar",
+		"autocompleteTerm": "Bhakkar",
+		"province": "Punjab"
+	},{
+		"keyword": "Arif Wala",
+		"autocompleteTerm": "Arif Wala",
+		"province": "Punjab"
+	},{
+		"keyword": "Sambrial",
+		"autocompleteTerm": "Sambrial",
+		"province": "Punjab"
+	},{
+		"keyword": "Jatoi",
+		"autocompleteTerm": "Jatoi",
+		"province": "Punjab"
+	},{
+		"keyword": "Haroonabad",
+		"autocompleteTerm": "Haroonabad",
+		"province": "Punjab"
+	},{
+		"keyword": "Narowal",
+		"autocompleteTerm": "Narowal",
+		"province": "Punjab"
+	},{
+		"keyword": "Bhalwal",
+		"autocompleteTerm": "Bhalwal",
+		"province": "Punjab"
+	}
+	]
+}
